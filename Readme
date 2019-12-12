@@ -1,0 +1,4 @@
+以下のコマンドを実行し、仮想環境を起動
+$ source zitensyaEnv/bin/activate
+
+jupyter notebookが使えるのでそちらでデータ分析を行う。
