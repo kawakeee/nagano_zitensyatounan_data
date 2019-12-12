@@ -1,4 +1,8 @@
 以下のコマンドを実行し、仮想環境を起動
 $ source zitensyaEnv/bin/activate
 
-jupyter notebookが使えるのでそちらでデータ分析を行う。
+jupyter notebookでデータ分析を行う
+$ jupyter notebook
+
+- オープンデータの数値化.ipynb
+長野県自転車盗難データを数値化するためのnotebook
